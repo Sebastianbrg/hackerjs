@@ -1,0 +1,2 @@
+# hackerjs
+Usefull javascript snippets
